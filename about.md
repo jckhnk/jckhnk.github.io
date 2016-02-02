@@ -10,6 +10,6 @@ Astronomy PhD student in Tokyo.
 
 I like playing guitar, programming, and exploring the universe.
 
-### Contact me
+# ### Contact me
 
-[livingston@astron.s.u-tokyo.ac.jp](mailto:livingston@astron.s.u-tokyo.ac.jp)
+#[livingston@astron.s.u-tokyo.ac.jp](mailto:livingston@astron.s.u-tokyo.ac.jp)
