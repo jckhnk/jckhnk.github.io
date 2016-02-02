@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Astronomy PhD student in Tokyo. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like playing guitar, programming, and exploring the universe.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[livingston@astron.s.u-tokyo.ac.jp](mailto:livingston@astron.s.u-tokyo.ac.jp)
